@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dixit Pedhadiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 - 🌱 I’m currently learning **react js**
