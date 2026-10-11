@@ -244,9 +244,7 @@ Payment Reminder Pro · Shade & Color Index Pro · Product Inquiry Buttons · Ph
 
 <img src="https://streak-stats.demolab.com?user=dixit1948&hide_border=true&background=0b0f19&ring=a855f7&fire=ff2bd6&currStreakLabel=00f5ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dixit1948&bg_color=0b0f19&color=00f5ff&line=a855f7&point=ff2bd6&area=true&area_color=a855f7&hide_border=true&title_color=00f5ff" width="100%" alt="Activity graph"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dixit1948&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies"/>
+<img src="https://ghchart.rshah.org/a855f7/dixit1948" width="100%" alt="Contribution chart"/>
 
 <img src="https://raw.githubusercontent.com/dixit1948/dixit1948/main/assets/divider.svg" width="100%" alt=""/>
 
@@ -276,8 +274,6 @@ Payment Reminder Pro · Shade & Color Index Pro · Product Inquiry Buttons · Ph
 <a href="mailto:dixitpedhadiya20@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-ff2bd6?style=for-the-badge&labelColor=0b0f19&color=ff2bd6" alt="Email"/></a>
 
 <br/><br/>
-
-<img src="https://raw.githubusercontent.com/dixit1948/dixit1948/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:150a2b,50:0b1226,100:05070f&height=140&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=26&fontColor=00f5ff&animation=twinkling&fontAlignY=68" width="100%" alt="Footer"/>
 
