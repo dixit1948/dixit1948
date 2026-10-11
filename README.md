@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=dixit1948&label=VISITORS&color=a855f7&style=flat-square&labelColor=0b0f19" alt="Visitors"/>
+<img src="https://hits.sh/github.com/dixit1948.svg?style=flat-square&label=VISITORS&color=a855f7&labelColor=0b0f19" alt="Visitors"/>
 <img src="https://img.shields.io/github/followers/dixit1948?label=FOLLOWERS&style=flat-square&color=00f5ff&labelColor=0b0f19" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/dixit1948?label=STARS&style=flat-square&color=ff2bd6&labelColor=0b0f19&affiliations=OWNER" alt="Stars"/>
 
