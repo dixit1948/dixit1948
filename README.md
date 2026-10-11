@@ -273,7 +273,7 @@ Payment Reminder Pro · Shade & Color Index Pro · Product Inquiry Buttons · Ph
 <a href="https://drive.google.com/file/d/1v_21QmyuclrhkfOBPBtm13bPY6-DkFTw/view?usp=sharing"><img src="https://img.shields.io/badge/%F0%9F%93%84%20RESUME-a855f7?style=for-the-badge&labelColor=0b0f19&color=a855f7" alt="Resume"/></a>
 <a href="mailto:dixitpedhadiya20@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-ff2bd6?style=for-the-badge&labelColor=0b0f19&color=ff2bd6" alt="Email"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:150a2b,50:0b1226,100:05070f&height=140&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=26&fontColor=00f5ff&animation=twinkling&fontAlignY=68" width="100%" alt="Footer"/>
 
